@@ -66,7 +66,7 @@ A Countdown Timer application featuring an intuitive interface where the user ca
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/countdown-timer.git
+    git clone https://github.com/satyamcser/countdown_timer.git
     ```
 
 2. **Navigate to the project directory:**
